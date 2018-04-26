@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9A76F667208EE68600BF8DAE /* IBRenderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A76F666208EE68600BF8DAE /* IBRenderViewController.swift */; };
+		9A76F6722091688100BF8DAE /* IBRender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A76F6712091688100BF8DAE /* IBRender.swift */; };
 		9A8E1600208EBC62007DF8E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8E15FF208EBC62007DF8E0 /* AppDelegate.swift */; };
 		9A8E1602208EBC62007DF8E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8E1601208EBC62007DF8E0 /* ViewController.swift */; };
 		9A8E1605208EBC62007DF8E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E1603208EBC62007DF8E0 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		9A76F666208EE68600BF8DAE /* IBRenderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IBRenderViewController.swift; sourceTree = "<group>"; };
+		9A76F6712091688100BF8DAE /* IBRender.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IBRender.swift; sourceTree = "<group>"; };
 		9A8E15FC208EBC62007DF8E0 /* BSToys.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BSToys.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A8E15FF208EBC62007DF8E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9A8E1601208EBC62007DF8E0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -41,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				9A76F666208EE68600BF8DAE /* IBRenderViewController.swift */,
+				9A76F6712091688100BF8DAE /* IBRender.swift */,
 			);
 			path = IBRender;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A76F6722091688100BF8DAE /* IBRender.swift in Sources */,
 				9A8E1602208EBC62007DF8E0 /* ViewController.swift in Sources */,
 				9A8E1600208EBC62007DF8E0 /* AppDelegate.swift in Sources */,
 				9A76F667208EE68600BF8DAE /* IBRenderViewController.swift in Sources */,
